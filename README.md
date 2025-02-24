@@ -1,0 +1,2 @@
+# Starting
+Me studying Python
